@@ -17,7 +17,9 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  
+  fruits_array = [
+    
+    ]
 end
 
 def sorted_matrix
