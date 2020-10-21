@@ -18,7 +18,14 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   fruits_array = [
-    
+    [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
+][
+  ]
     ]
 end
 
